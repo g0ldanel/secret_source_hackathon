@@ -16,6 +16,9 @@ class CousinesSelector extends Component {
 
     );
   }
+
 }
 
+
 export default CousinesSelector;
+
